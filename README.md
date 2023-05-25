@@ -94,7 +94,7 @@ My Plan In The Near Future Is To Be A MERN Stack Developer
 
 ---
 
-</br>
+<!-- </br>
 
 <h2 align="center">
 <img style="margin-bottom: -5px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="30">
@@ -110,7 +110,7 @@ My Plan In The Near Future Is To Be A MERN Stack Developer
 
 </br>
 
----
+--- -->
 
 <div align="center">
 <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Money%20with%20wings/3D/money_with_wings_3d.png?raw=true" width="100">
