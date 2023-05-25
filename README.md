@@ -1,5 +1,7 @@
-<img style="width: 100%" src="https://developer.apple.com/wwdc22/images/hero-p3/hero-medium.jpg">
-</br>
+<!-- <img style="width: 100%" src="https://developer.apple.com/wwdc22/images/hero-p3/hero-medium.jpg"> -->
+
+
+<!-- </br>
 <h1 align="center"><b>Hey!, This is Ehab  </b><img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Raising%20hands/Default/3D/raising_hands_3d_default.png?raw=true" width="35"></h1>
 
 </br>
@@ -69,7 +71,7 @@ My Plan In The Near Future Is To Be A MERN Stack Developer
 
 ---
 
-</br>
+</br> -->
 
 <h2 align="center">
 <img style="margin-bottom: -7px" src="https://media0.giphy.com/media/I3Birk06UIg6J0SDmH/giphy.gif?cid=790b7611d01aa12f60de12d474df21b99e2ab9775e28bec4&rid=giphy.gif" width ="33">
