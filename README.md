@@ -113,7 +113,7 @@ My Plan In The Near Future Is To Be A MERN Stack Developer
 
 --- -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Money%20with%20wings/3D/money_with_wings_3d.png?raw=true" width="100">
 <h1><b>CERTIFIED CASH CHEF!</b></h1>
-</div>
+</div> -->
